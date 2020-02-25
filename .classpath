@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/commons-dbutils-1.7/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/commons-dbutils-1.7/commons-dbutils-1.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/commons-dbutils-1.7/commons-dbutils-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/commons-dbutils-1.7/commons-dbutils-1.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/Compressed/commons-dbutils-1.7/commons-dbutils-1.7-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
